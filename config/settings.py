@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'authapp',
     'rest_framework',
     'corsheaders',
+    'todo',
 
 ]
 
